@@ -1,0 +1,87 @@
+
+h2 {
+    text-align: center;
+    margin-bottom: 16px;
+    font-size: 30px;
+    font-weight: bold;
+}
+h5 {
+    font-weight: bold;
+}
+.formulario {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+.carousel-inne img {
+    width: 800px;
+    height: 400px;
+}
+.card img {
+    width: 350px;
+    height: 200px;
+}
+
+.contato{
+background-color: #baccf8e6;
+}
+.form-campo {
+    margin-bottom: 20px;
+}
+
+.form-campo label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-campo input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.error {
+    color:red
+}
+
+
+footer {
+    background: #655f5fe0;
+     
+     color: #fff;
+     height: 30px;
+    text-align: center;
+}
+footer li {
+   
+    margin-left: 20px;
+
+    
+    
+} 
+}
+ ul .container-flex {
+    justify-content: space-between;
+    align-items: center; 
+}
+.pos-f-t a {
+    color: #fff;
+}
+
+/*---
+justify-content: space-between;
+    align-items: center; 
+---*/
+ .promo h2,
+ .vendas h2 {
+    border-bottom:  solid #31A2E8;
+}
